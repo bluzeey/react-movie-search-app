@@ -15,14 +15,14 @@
   <p align="center">
     This is a React Movie Search Application which uses React and MovieDatabaseAPI.
     <br />
-    <a href="https://github.com/bluzeey/ai-news-app"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/bluzeey/react-movie-search-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ai-powered-news-react.netlify.app/">View Demo</a>
+    <a href="https://react-movie-searchv2.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/bluzeey/ai-news-app/issues">Report Bug</a>
+    <a href="https://github.com/bluzeey/react-movie-search-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/bluzeey/ai-news-app/issues">Request Feature</a>
+    <a href="https://github.com/bluzeey/react-movie-search-app/issues">Request Feature</a>
   </p>
 </div>
 
@@ -55,9 +55,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Alan AI News
+## React Movie Search
 
-[![Netflix][product-screenshot]](https://ai-powered-news-react.netlify.app/)
+[![Movie-Search][product-screenshot]](https://react-movie-searchv2.vercel.app/)
 
 
 
@@ -92,7 +92,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/bluzeey/ai-news-app.git
+   git clone https://github.com/bluzeey/react-movie-search-app.git
    ```
 2. Install NPM packages
    ```sh
